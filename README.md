@@ -1,7 +1,4 @@
-# Py2Lang
-Python to other language convertor
-
-# 🐍 Py2Lang: Python to Language Converter
+# 🔁 Py2Lang: Python to Language Converter
 
 **Py2Lang** is a Jupyter Notebook-based tool that allows you to convert Python code snippets into equivalent code in other programming languages.
 
